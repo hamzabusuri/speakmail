@@ -26,7 +26,7 @@ SECRET_KEY = '$k8sejxr@tcz_m(f=^x$iovc3fzo#!xri29vc!7(lehy4h!2)6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['speakmail.herokuapp.com']
+ALLOWED_HOSTS = ['speakmail.herokuapp.com','127.0.0.1']
 
 
 # Application definition
