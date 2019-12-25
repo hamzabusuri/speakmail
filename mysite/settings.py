@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '$k8sejxr@tcz_m(f=^x$iovc3fzo#!xri29vc!7(lehy4h!2)6'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['speakmail.herokuapp.com','127.0.0.1']
 
