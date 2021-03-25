@@ -19,7 +19,7 @@ jsonschema==2.6.0
 pathspec==0.5.9
 psycopg2==2.8.4
 pytz==2019.3
-PyYAML==3.13
+PyYAML==5.4
 semantic-version==2.5.0
 six==1.11.0
 sqlparse==0.3.0
