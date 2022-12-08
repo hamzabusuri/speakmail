@@ -3,7 +3,7 @@ awsebcli==3.16.0
 blessed==1.16.1
 cached-property==1.5.1
 cement==2.8.2
-certifi==2019.11.28
+certifi==2022.12.7
 colorama==0.3.9
 dj-database-url==0.5.0
 Django==3.0.1
